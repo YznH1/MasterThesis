@@ -1,6 +1,6 @@
 The 11 MATLAB scripts correspond to the 7 stages of data processing and analysis carried out in MATLAB.
 
-Here is the classification of stages and the MATLAB script used therin: (The function of each is explained in the report as well through comments in the code itself)
+Here is the classification of stages and the MATLAB script used therein: (The function of each is explained in the report as well through comments in the code itself)
 Stage 1: 
   ImportIGS.m
 Stage 2:
